@@ -5,6 +5,9 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ## The process of making a perfect cake🎂
 
+<img width="621" alt="Screenshot 2022-12-19 at 13 42 38" src="https://user-images.githubusercontent.com/112861555/208661395-51ba2b7b-a2a1-4bf4-b4e4-27494fbfe116.png">
+
+
 
 ## Licentie
 
